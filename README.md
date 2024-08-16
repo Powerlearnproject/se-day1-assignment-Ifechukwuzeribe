@@ -187,9 +187,15 @@ Why the Improved Prompt is More Effective:
 REFERENCE
 
 Adeyemi, S. (2023). Comparison and contrast between Waterfall and Agile model. LinkedIn. Retrieved from https://www.linkedin.com/pulse/comparison-contrast-between-waterfall-agile-model-sarah-oladeji/
+
 BasuMallick, C. (2022). What is Integrated Development Environment (IDE)? Meaning, software, types, and importance. Spiceworks. Retrieved from https://www.spiceworks.com/tech/devops/articles/what-is-ide/#_003
+
 ChatGPT. (2024, August 15). Phases of the Software Development Life Cycle. OpenAI.
+
 Devaraj, K. (2023, August 18). Levels of testing: A complete approach to quality assurance. Retrieved from https://www.testsigma.com/blog/levels-of-testing 
+
 Perforce. (2023). What is version control? Retrieved from https://www.perforce.com/blog/vcs/what-is-version-control
+
 Software Testing Stuff. (2007, September). A brief history of software engineering. Retrieved from https://www.softwaretestingstuff.com/2007/09/brief-history-of-software-engineering.html
+
 The Knowledge Academy. (n.d.). The importance of software engineering. Retrieved from https://www.theknowledgeacademy.com/blog/importance-of-software-engineering/
